@@ -1,0 +1,6 @@
+*.tsv
+*.csv
+sra_scratch/
+*.log
+batch.log
+__pycache__/
