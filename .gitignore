@@ -1,5 +1,5 @@
-*.tsv
 *.csv
+!thinkstation_pending*.tsv
 sra_scratch/
 *.log
 batch.log
